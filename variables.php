@@ -1,7 +1,7 @@
 <?php
 
-$NameofMovie = Indiana Jones;
-$AlreadySeen = True;
+$NameofMovie =" Indiana Jones";
+$AlreadySeen = true;
 $ReleaseYear = 1989;
 $Rating = 8.2;
 
