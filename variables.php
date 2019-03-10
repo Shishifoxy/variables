@@ -6,17 +6,17 @@ $ReleaseYear = 1989;
 $Rating = 8.2;
 
 {
-    echo "Movie = $NameofMovie <br>";
+    echo "Movie = $NameofMovie";
 }
 
 if  ($AlreadySeen)
 {
-    echo "J'ai déjà vu ce film <br> " ;
+    echo "J'ai déjà vu ce film " ;
 }
  else {
-        echo "Je n'ai pas encore vu ce film <br>" ;
+        echo "Je n'ai pas encore vu ce film " ;
 }
 {
-    echo "$NameofMovie est sorti en $ReleaseYar et a reçu une note de $Rating /10";
+    echo "$NameofMovie est sorti en $ReleaseYear et a reçu une note de $Rating /10";
 }
  ?>
